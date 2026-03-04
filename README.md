@@ -11,4 +11,8 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asharalikhan4/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
