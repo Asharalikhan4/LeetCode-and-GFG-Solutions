@@ -15,4 +15,8 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0175-combine-two-tables) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
