@@ -7,10 +7,12 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asharalikhan4/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asharalikhan4/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Database
 |  |
 | ------- |
@@ -19,4 +21,8 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0009-palindrome-number) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
