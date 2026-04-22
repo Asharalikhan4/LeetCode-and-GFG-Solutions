@@ -7,6 +7,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asharalikhan4/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
