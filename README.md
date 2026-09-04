@@ -11,6 +11,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 | [0283-move-zeroes](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0283-move-zeroes) |
 | [2029-stone-game-ix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3903-smallest-stable-index-i](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,8 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2029-stone-game-ix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
