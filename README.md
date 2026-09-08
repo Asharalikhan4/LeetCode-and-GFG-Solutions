@@ -26,6 +26,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 | ------- |
 | [0009-palindrome-number](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0009-palindrome-number) |
 | [2029-stone-game-ix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2029-stone-game-ix) |
+| [3870-count-commas-in-range](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3870-count-commas-in-range) |
 ## Counting
 |  |
 | ------- |
