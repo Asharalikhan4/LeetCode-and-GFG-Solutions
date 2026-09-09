@@ -28,6 +28,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 | [0070-climbing-stairs](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0070-climbing-stairs) |
 | [2029-stone-game-ix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2029-stone-game-ix) |
 | [3870-count-commas-in-range](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Counting
 |  |
 | ------- |
