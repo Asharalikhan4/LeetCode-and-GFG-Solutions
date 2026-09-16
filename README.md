@@ -26,6 +26,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 | ------- |
 | [0009-palindrome-number](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0070-climbing-stairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2029-stone-game-ix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2029-stone-game-ix) |
 | [3870-count-commas-in-range](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -64,11 +65,13 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0070-climbing-stairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
 |  |
@@ -78,4 +81,8 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
