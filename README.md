@@ -8,6 +8,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 | ------- |
 | [0001-two-sum](https://github.com/Asharalikhan4/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0283-move-zeroes) |
 | [2029-stone-game-ix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -85,4 +86,8 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
