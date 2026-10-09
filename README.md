@@ -45,6 +45,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 ## Greedy
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Minimax
@@ -81,6 +82,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 ## String
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -90,4 +92,12 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
