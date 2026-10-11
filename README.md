@@ -7,6 +7,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asharalikhan4/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0014-longest-common-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
@@ -100,4 +102,8 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
