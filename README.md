@@ -85,6 +85,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0014-longest-common-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -98,10 +99,12 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
