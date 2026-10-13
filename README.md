@@ -13,6 +13,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 | [0283-move-zeroes](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0283-move-zeroes) |
 | [2029-stone-game-ix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Minimax
 |  |
 | ------- |
@@ -109,4 +111,8 @@ Collection of LeetCode and Geeks for geeks questions answer to ace the coding in
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Asharalikhan4/LeetCode-and-GFG-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
